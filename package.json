@@ -1,0 +1,9 @@
+{
+  "name": "BestPracticesTest",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack-dev-server":"^2.7.1",
+    "webpack": "^3.5.5"
+  }
+}
